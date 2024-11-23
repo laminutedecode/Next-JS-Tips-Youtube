@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Aquarium",
+    "price": 25,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, sapiente expedita ratione sint harum reprehenderit nesciunt suscipit autem natus perferendis veritatis aut repellendus animi quis amet quo officia alias voluptates.",
+    "image": "https://images.unsplash.com/photo-1617994679330-2883951d0073?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "title": "Parc PlazaLand",
+    "price": 50,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, sapiente expedita ratione sint harum reprehenderit nesciunt suscipit autem natus perferendis veritatis aut repellendus animi quis amet quo officia alias voluptates.",
+    "image": "https://images.unsplash.com/photo-1505731110654-99d7f7f8e39c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+  ,
+  {
+    "id": 3,
+    "title": "Cinema",
+    "price": 10,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, sapiente expedita ratione sint harum reprehenderit nesciunt suscipit autem natus perferendis veritatis aut repellendus animi quis amet quo officia alias voluptates.",
+    "image": "https://images.unsplash.com/photo-1608170825938-a8ea0305d46c?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+  ,
+  {
+    "id": 3,
+    "title": "Cinema",
+    "price": 4.00,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, sapiente expedita ratione sint harum reprehenderit nesciunt suscipit autem natus perferendis veritatis aut repellendus animi quis amet quo officia alias voluptates.",
+    "image": "https://images.unsplash.com/photo-1558617320-e695f0d420de?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
